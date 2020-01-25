@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText phone,aadhar,election;
     private DatabaseReference register;
     int flag=0;
-    Object aa,e,mb;
+    Object aa,e,mb,ev;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
@@ -101,23 +101,28 @@ public class MainActivity extends AppCompatActivity {
                                      String mbf = String.valueOf(mb);
                                      Log.i("Mobile", mbf);
 
-                                     if ((aaf.equals(aadhar.getText().toString())) && (ef.equals(election.getText().toString())) && (mbf.equals(phone.getText().toString()))) {
-
-                                         Toast.makeText(MainActivity.this, "You are Logged In", Toast.LENGTH_LONG).show();
-                                         Intent i = new Intent(MainActivity.this, Dashboard.class);
-                                         startActivity(i);
-                                         flag=1;
+                                     if ((aaf.equals(aadhar.getText().toString())) && (ef.equals(election.getText().toString())) && (mbf.equals(phone.getText().toString())))
+                                     {
+                                         if(vote.child("E-Voter").exists())
+                                         {
+                                             Toast.makeText(MainActivity.this, "You are Logged In", Toast.LENGTH_LONG).show();
+                                             Intent i = new Intent(MainActivity.this, Dashboard.class);
+                                             startActivity(i);
+                                             flag = 1;
+                                             break;
+                                         }
+                                         else {
+                                            Toast.makeText(MainActivity.this,"Please Signup before using the services of this Application",Toast.LENGTH_LONG).show();
+                                         }
                                      }
+
                                  }
                                  if(flag==0)
                                  {
                                      Toast.makeText(MainActivity.this, "You are not Registered.Please Proceed to SignUp By clicking on below button", Toast.LENGTH_LONG).show();
                                  }
                              }
-                             else
-                             {
-                                 Toast.makeText(MainActivity.this, "You are not Registered.Please Proceed to SignUp By clicking on below button", Toast.LENGTH_LONG).show();
-                             }
+
                          }
 
                          @Override
