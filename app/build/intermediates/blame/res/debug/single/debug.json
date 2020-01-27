@@ -36,6 +36,10 @@
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\81efca949d99855e5e3f6d718bc8d1fe\\appcompat-1.1.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_illustration.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-xxhdpi\\illustration.png"
+    },
+    {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark.xml.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\64aa804a65a9e3423a6cc11b33d51f06\\play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
@@ -56,6 +60,10 @@
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\81efca949d99855e5e3f6d718bc8d1fe\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_download.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-xxxhdpi\\download.png"
+    },
+    {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\81efca949d99855e5e3f6d718bc8d1fe\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
@@ -64,12 +72,20 @@
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\81efca949d99855e5e3f6d718bc8d1fe\\appcompat-1.1.0\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_checked.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-xxhdpi\\checked.png"
+    },
+    {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_picker_fullscreen.xml.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\235e1471c6b9c883e697abb06ddd4ac6\\material-1.2.0-alpha03\\res\\layout\\mtrl_picker_fullscreen.xml"
     },
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\81efca949d99855e5e3f6d718bc8d1fe\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_illustration.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-mdpi\\illustration.png"
     },
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\interpolator_mtrl_fast_out_slow_in.xml.flat",
@@ -128,6 +144,10 @@
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\81efca949d99855e5e3f6d718bc8d1fe\\appcompat-1.1.0\\res\\anim\\abc_tooltip_exit.xml"
     },
     {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_house.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-hdpi\\house.png"
+    },
+    {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checked.png.flat",
         "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable\\checked.png"
     },
@@ -142,6 +162,10 @@
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_small_material.xml.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\81efca949d99855e5e3f6d718bc8d1fe\\appcompat-1.1.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_link.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-mdpi\\link.png"
     },
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_standard_color_18.png.flat",
@@ -162,6 +186,10 @@
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\2111d963c95cc6e94705fb367f0a0943\\core-1.1.0\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_notice.xml.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\layout\\activity_notice.xml"
     },
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -192,6 +220,10 @@
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\81efca949d99855e5e3f6d718bc8d1fe\\appcompat-1.1.0\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_link.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-xxxhdpi\\link.png"
+    },
+    {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_logo.png.flat",
         "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable\\main_logo.png"
     },
@@ -202,6 +234,10 @@
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\81efca949d99855e5e3f6d718bc8d1fe\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_link.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-hdpi\\link.png"
     },
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_picker_header_selection_text.xml.flat",
@@ -400,6 +436,10 @@
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\81efca949d99855e5e3f6d718bc8d1fe\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_grievance.xml.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\layout\\activity_grievance.xml"
+    },
+    {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\81efca949d99855e5e3f6d718bc8d1fe\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
@@ -414,6 +454,10 @@
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mtrl_ic_error.xml.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\235e1471c6b9c883e697abb06ddd4ac6\\material-1.2.0-alpha03\\res\\drawable\\mtrl_ic_error.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_link.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-xxhdpi\\link.png"
     },
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_abc_screen_toolbar.xml.flat",
@@ -456,6 +500,10 @@
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\81efca949d99855e5e3f6d718bc8d1fe\\appcompat-1.1.0\\res\\anim\\abc_popup_enter.xml"
     },
     {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pluspro.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-hdpi\\pluspro.png"
+    },
+    {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_mtrl_layout_snackbar.xml.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\235e1471c6b9c883e697abb06ddd4ac6\\material-1.2.0-alpha03\\res\\layout-sw600dp-v13\\mtrl_layout_snackbar.xml"
     },
@@ -486,6 +534,10 @@
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\color_design_icon_tint.xml.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\235e1471c6b9c883e697abb06ddd4ac6\\material-1.2.0-alpha03\\res\\color\\design_icon_tint.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_checked.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-xhdpi\\checked.png"
     },
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_checkbox_checked_to_unchecked_mtrl_animation.xml.flat",
@@ -576,6 +628,10 @@
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\235e1471c6b9c883e697abb06ddd4ac6\\material-1.2.0-alpha03\\res\\drawable\\ic_menu_arrow_up_black_24dp.xml"
     },
     {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pluspro.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-xxhdpi\\pluspro.png"
+    },
+    {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\64aa804a65a9e3423a6cc11b33d51f06\\play-services-base-17.0.0\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
     },
@@ -664,8 +720,16 @@
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\81efca949d99855e5e3f6d718bc8d1fe\\appcompat-1.1.0\\res\\drawable-watch-v20\\abc_dialog_material_background.xml"
     },
     {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pluspro.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-mdpi\\pluspro.png"
+    },
+    {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\81efca949d99855e5e3f6d718bc8d1fe\\appcompat-1.1.0\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_download.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-mdpi\\download.png"
     },
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\interpolator_btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml.flat",
@@ -682,6 +746,10 @@
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\81efca949d99855e5e3f6d718bc8d1fe\\appcompat-1.1.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cast_vote.xml.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\layout\\activity_cast_vote.xml"
     },
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_dark.xml.flat",
@@ -750,6 +818,10 @@
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\81efca949d99855e5e3f6d718bc8d1fe\\appcompat-1.1.0\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_house.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-xxxhdpi\\house.png"
     },
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_light.xml.flat",
@@ -886,6 +958,10 @@
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_calendar_year.xml.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\235e1471c6b9c883e697abb06ddd4ac6\\material-1.2.0-alpha03\\res\\layout\\mtrl_calendar_year.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_checked.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-hdpi\\checked.png"
     },
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_picker_dialog.xml.flat",
@@ -1168,6 +1244,10 @@
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\64aa804a65a9e3423a6cc11b33d51f06\\play-services-base-17.0.0\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pluspro.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-xhdpi\\pluspro.png"
+    },
+    {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_outlined_icon_tint.xml.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\235e1471c6b9c883e697abb06ddd4ac6\\material-1.2.0-alpha03\\res\\color\\mtrl_outlined_icon_tint.xml"
     },
@@ -1264,6 +1344,10 @@
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\81efca949d99855e5e3f6d718bc8d1fe\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_pluspro.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-xxxhdpi\\pluspro.png"
+    },
+    {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\81efca949d99855e5e3f6d718bc8d1fe\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
     },
@@ -1344,6 +1428,10 @@
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\81efca949d99855e5e3f6d718bc8d1fe\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_film.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-xhdpi\\film.png"
+    },
+    {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\color_material_on_primary_disabled.xml.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\235e1471c6b9c883e697abb06ddd4ac6\\material-1.2.0-alpha03\\res\\color\\material_on_primary_disabled.xml"
     },
@@ -1354,6 +1442,10 @@
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_extended_fab_hide_motion_spec.xml.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\235e1471c6b9c883e697abb06ddd4ac6\\material-1.2.0-alpha03\\res\\animator\\mtrl_extended_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_film.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-hdpi\\film.png"
     },
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1576,6 +1668,10 @@
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\81efca949d99855e5e3f6d718bc8d1fe\\appcompat-1.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update_info.xml.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\layout\\activity_update_info.xml"
+    },
+    {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\color_material_slider_active_tick_marks_color.xml.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\235e1471c6b9c883e697abb06ddd4ac6\\material-1.2.0-alpha03\\res\\color\\material_slider_active_tick_marks_color.xml"
     },
@@ -1594,6 +1690,10 @@
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\2111d963c95cc6e94705fb367f0a0943\\core-1.1.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_link.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-xhdpi\\link.png"
     },
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
@@ -1642,6 +1742,10 @@
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mtrl_dialog_background.xml.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\235e1471c6b9c883e697abb06ddd4ac6\\material-1.2.0-alpha03\\res\\drawable\\mtrl_dialog_background.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_house.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-mdpi\\house.png"
     },
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -1804,6 +1908,10 @@
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\235e1471c6b9c883e697abb06ddd4ac6\\material-1.2.0-alpha03\\res\\color\\mtrl_indicator_text_color.xml"
     },
     {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_film.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-xxxhdpi\\film.png"
+    },
+    {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu.xml.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\235e1471c6b9c883e697abb06ddd4ac6\\material-1.2.0-alpha03\\res\\layout\\design_navigation_menu.xml"
     },
@@ -1870,6 +1978,10 @@
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\81efca949d99855e5e3f6d718bc8d1fe\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_checked.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-xxxhdpi\\checked.png"
     },
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_calendar_vertical.xml.flat",
@@ -1996,6 +2108,10 @@
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\81efca949d99855e5e3f6d718bc8d1fe\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_house.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-xxhdpi\\house.png"
+    },
+    {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_btn_colored_text_material.xml.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\81efca949d99855e5e3f6d718bc8d1fe\\appcompat-1.1.0\\res\\color\\abc_btn_colored_text_material.xml"
     },
@@ -2082,6 +2198,10 @@
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_chip_text_color.xml.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\235e1471c6b9c883e697abb06ddd4ac6\\material-1.2.0-alpha03\\res\\color\\mtrl_chip_text_color.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_film.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-mdpi\\film.png"
     },
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_fab_hide_motion_spec.xml.flat",
@@ -2204,6 +2324,10 @@
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\81efca949d99855e5e3f6d718bc8d1fe\\appcompat-1.1.0\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_illustration.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-hdpi\\illustration.png"
+    },
+    {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_radio_material.xml.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\81efca949d99855e5e3f6d718bc8d1fe\\appcompat-1.1.0\\res\\drawable\\abc_btn_radio_material.xml"
     },
@@ -2224,8 +2348,16 @@
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\2111d963c95cc6e94705fb367f0a0943\\core-1.1.0\\res\\layout\\custom_dialog.xml"
     },
     {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_download.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-hdpi\\download.png"
+    },
+    {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_navigation_item.xml.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\235e1471c6b9c883e697abb06ddd4ac6\\material-1.2.0-alpha03\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_download.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-xxhdpi\\download.png"
     },
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_error.xml.flat",
@@ -2444,6 +2576,10 @@
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\235e1471c6b9c883e697abb06ddd4ac6\\material-1.2.0-alpha03\\res\\color\\mtrl_extended_fab_ripple_color.xml"
     },
     {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_film.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-xxhdpi\\film.png"
+    },
+    {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_bottom_sheet_slide_out.xml.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\235e1471c6b9c883e697abb06ddd4ac6\\material-1.2.0-alpha03\\res\\anim\\design_bottom_sheet_slide_out.xml"
     },
@@ -2476,6 +2612,10 @@
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\81efca949d99855e5e3f6d718bc8d1fe\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_download.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-xhdpi\\download.png"
+    },
+    {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_dark.xml.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\81efca949d99855e5e3f6d718bc8d1fe\\appcompat-1.1.0\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
@@ -2506,6 +2646,10 @@
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\81efca949d99855e5e3f6d718bc8d1fe\\appcompat-1.1.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_illustration.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-xxxhdpi\\illustration.png"
     },
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
@@ -2570,6 +2714,10 @@
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_test_action_chip.xml.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\235e1471c6b9c883e697abb06ddd4ac6\\material-1.2.0-alpha03\\res\\layout\\test_action_chip.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_illustration.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-xhdpi\\illustration.png"
     },
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_extended_fab_state_list_animator.xml.flat",
@@ -2652,6 +2800,10 @@
         "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_checked.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-mdpi\\checked.png"
+    },
+    {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_checkbox_unchecked_mtrl.xml.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\81efca949d99855e5e3f6d718bc8d1fe\\appcompat-1.1.0\\res\\drawable\\btn_checkbox_unchecked_mtrl.xml"
     },
@@ -2662,6 +2814,10 @@
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\xml_standalone_badge_offset.xml.flat",
         "source": "C:\\Users\\aagam\\.gradle\\caches\\transforms-2\\files-2.1\\235e1471c6b9c883e697abb06ddd4ac6\\material-1.2.0-alpha03\\res\\xml\\standalone_badge_offset.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_house.png.flat",
+        "source": "D:\\Downloads\\E-Voting-App\\app\\src\\main\\res\\drawable-xhdpi\\house.png"
     },
     {
         "merged": "D:\\Downloads\\E-Voting-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
